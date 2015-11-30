@@ -12,7 +12,7 @@ summaryDict = {'class': 'summary'}
 
 #____________________________________________________________________________||
 
-url = "http://www.nytimes.com/"
+url = "http://www.4chan.org/"
 
 page = urllib2.urlopen( url )
 data = BeautifulSoup( page )
